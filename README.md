@@ -12,6 +12,10 @@ Link to [my GitHub portfolio:](https://github.com/halliwellb)
 
 ## 3 Reminders to stay in a growth mindset:
 
-1. Be patient and persevere.
-2. Don't compare; we all start at different levels.
+1. Be patient and persevere. :+1:
+2. Don't compare; we all start at different levels.:
 3. Commit to working hard and being open to new learning methods.
+
+- [ ] Being patient and persevering?
+- [ ] Inner focus on improvement?
+- [ ] Working hard, paying attention, and remaining open?
