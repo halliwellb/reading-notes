@@ -2,7 +2,9 @@
 
 Hi my name is Ben Halliwell. I am learning about tech and having my mind blown daily.
 
-![This is an image of Eureka!]()
+![Eureka!](https://user-images.githubusercontent.com/121691988/221251328-d20f795d-77ea-4090-a76b-c607468033e2.jpg)
+
+[Photo source](https://unsplash.com/photos/eWuc6TXc8Ok?utm_source=unsplash&utm_medium=referral&utm_content=creditShareLink)
 
 Link to [my GitHub portfolio:](https://github.com/halliwellb)
 
