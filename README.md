@@ -2,7 +2,7 @@
 
 Hi my name is Ben Halliwell. I am navigating a career change into tech and having my mind blown daily.
 
-Link to my GitHub portfolio: https://github.com/halliwellb
+Link to [my GitHub portfolio:](https://github.com/halliwellb)
 
 ### *Growth mindset is the willingness to remain empathetic with ourselves and understand that learning is a process that takes time, not an instant action.*
 
