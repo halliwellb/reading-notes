@@ -14,8 +14,7 @@ My best contact information is by email at bkhalliwell@outlook.com.
 
 ## Links to my Code 102 reading notes:
 
-| [Class1](https://halliwellb.github.io/reading-notes/code-102/code-102notes/class1) | [Class2](https://halliwellb.github.io/reading-notes/code-102/code-102notes/class2)
-| [Class3](https://halliwellb.github.io/reading-notes/code-102/code-102notes/class3) | [Class4](https://halliwellb.github.io/reading-notes/code-102/code-102notes/class4) |
+| [Class1](https://halliwellb.github.io/reading-notes/code-102/code-102notes/class1) | [Class2](https://halliwellb.github.io/reading-notes/code-102/code-102notes/class2) | [Class3](https://halliwellb.github.io/reading-notes/code-102/code-102notes/class3) | [Class4](https://halliwellb.github.io/reading-notes/code-102/code-102notes/class4) |
 
 | [Class5](https://halliwellb.github.io/reading-notes/code-102/code-102notes/class5) | [Class6](https://halliwellb.github.io/reading-notes/code-102/code-102notes/class6) | [Class7](https://halliwellb.github.io/reading-notes/code-102/code-102notes/class7) | [Class8](https://halliwellb.github.io/reading-notes/code-102/code-102notes/class8) |
 
