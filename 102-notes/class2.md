@@ -62,3 +62,5 @@ This can be a big time saver for repeat tasks.
 + touch new-project/newfile.md = **Telling the terminal to go to "newfile.md" within "new-project"; if not present, create a new file**
 + cd.. = **With no arguments, cd will take us back to the home directory; with arguments, will take us to the location specified**
 + ls projects/new-project = **We are telling ls to not list our current directory, but rather the contents of the specified directory**
+
+[Homepage](https://halliwellb.github.io/reading-notes/)

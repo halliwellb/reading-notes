@@ -16,3 +16,5 @@ We use the parenthesis to tell Markdown what link to input for the symbol. There
 GitHub Pages is a way to illustrate your work and reach a broader audience very efficiently. GitHub will publish the work you save to your page which automatically updates the link for future users, freeing up the creator.
 
 * You can upload files to GitHub Pages by dragging and dropping them to the spot in the file you want them to appear.
+
+[Homepage](https://halliwellb.github.io/reading-notes/)

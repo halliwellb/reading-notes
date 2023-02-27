@@ -22,3 +22,5 @@ After tracking the files, you need to commit the changes made with git commit -m
 # Polishing my README page
 
 Working through the steps to clean up my README.md was tough. It took a lot of perseverence, but the experience so far has been extremely validating. I have had the opportunity to prove to myself that I can figure it out if I give it the due time. I have also discovered that I actually really enjoy learning about the steps and as tough as it is to bang my head against the wall when I've broken something, it is fun. This is because if it's broken, I did it. The computer has specific protocols to follow and I did not in that case. I love that type of order and method, so the entire experience has been enriching and validating in that light. I'm excited to keep learning!
+
+[Homepage](https://halliwellb.github.io/reading-notes/)
