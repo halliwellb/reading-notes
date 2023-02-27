@@ -1,4 +1,14 @@
-# Text Editors
+# The Coder's Computer
+
+This topic matters because our computer is our toolbox. Without a thorough understanding of what we currently have available in our toolbox, we will not be at our best
+when using the tools. We also won't fully understand what tools could make our work better! This topic is the beginning of our foundation for success.
+
+## Things I want to know more about
+    
+   + What is the preference some people have for Windows over Linux or vice-versa?
+   + Is it beneficial to have a profile within your terminal? I.E. should you run commands through halliwellb or is Root simpler?
+
+## Text Editors
 
 The one thing to remember is that there's no one "right" editor. You will be using this application **a lot** so choose one that you're comfortable with and work efficiently on.
 
@@ -19,11 +29,12 @@ The one thing to remember is that there's no one "right" editor. You will be usi
 + Whatever your personal preferences are above that!
   + Again, there is no one "right" editor!!
 
-### Pre-installed options
-  + Windows comes with *Notepad* and Mac comes with *Text Edit*
-  + Linux comes with a text editor, but depends on the setup
+  ### Pre-installed options
+  
+    + Windows comes with *Notepad* and Mac comes with *Text Edit*
+    + Linux comes with a text editor, but depends on the setup
 
-# The command line
+## The command line
 
 Can be helpful to have multiple terminals open at one time to make work more efficient.
 When typing a command, must separate the command with the first command line argument.
