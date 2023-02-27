@@ -14,6 +14,6 @@
 
 ### Semantic element
 
-(4.) A semantic element helps give meaning to the code and makes it more comprehendable for technology and other developers. It also helps the markup to recommend data.
+(4.) A semantic element helps give meaning to the code and makes it more understandable for technology and other developers. It also helps the markup to recommend data.
 
 [Homepage](https://halliwellb.github.io/reading-notes/)
