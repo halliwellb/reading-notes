@@ -17,4 +17,4 @@ After tracking the files, you need to commit the changes made with git commit -m
 
 ## Command to send files back to GitHub
 
-(4.) The command to send changed files back to GitHub is git push origin main. This will send your updates back to the GitHub server and equalize your local drive files and your GitHub server files.
+(4.) The command to *send changed files* back to GitHub is git push origin main. This will send your updates back to the GitHub server and equalize your local drive files and your GitHub server files.
