@@ -18,3 +18,7 @@ After tracking the files, you need to commit the changes made with git commit -m
 ## Command to send files back to GitHub
 
 (4.) The command to *send changed files* back to GitHub is git push origin main. This will send your updates back to the GitHub server and equalize your local drive files and your GitHub server files.
+
+# Polishing my README page
+
+Working through the steps to clean up my README.md was tough. It took a lot of perseverence, but the experience so far has been extremely validating. I have had the opportunity to prove to myself that I can figure it out if I give it the due time. I have also discovered that I actually really enjoy learning about the steps and as tough as it is to bang my head against the wall when I've broken something, it is fun. This is because if it's broken, I did it. The computer has specific protocols to follow and I did not in that case. I love that type of order and method, so the entire experience has been enriching and validating in that light. I'm excited to keep learning!
