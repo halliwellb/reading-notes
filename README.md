@@ -20,8 +20,8 @@ My best contact information is by email at bkhalliwell@outlook.com.
 
 ## Links to my Code 201 reading notes:
 
-| [Class1](201-notess/class1.md) | [Class2](201-notess/class2.md) | [Class3](201-notess/class3.md) | [Class4](201-notess/class4.md) | [Class5](201-notess/class5.md) | 
+| [Class1](201-notes/class1.md) | [Class2](201-notes/class2.md) | [Class3](201-notes/class3.md) | [Class4](201-notes/class4.md) | [Class5](201-notes/class5.md) | 
 
-| [Class6](201-notess/class6.md) | [Class7](201-notess/class7.md) | [Class8](201-notess/class8.md) | [Class9](201-notess/class9.md) | [Class10](201-notess/class10.md) | 
+| [Class6](201-notes/class6.md) | [Class7](201-notes/class7.md) | [Class8](201-notes/class8.md) | [Class9](201-notes/class9.md) | [Class10](201-notes/class10.md) | 
 
-| [Class11](201-notess/class11.md) | [Class12](201-notess/class12.md) | [Class13](201-notess/class13.md) | [Class14](201-notess/class14.md) | [Class15](201-notess/class15.md) |
+| [Class11](201-notes/class11.md) | [Class12](201-notes/class12.md) | [Class13](201-notes/class13.md) | [Class14](201-notes/class14.md) | [Class15](201-notes/class15.md) |
