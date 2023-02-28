@@ -12,7 +12,7 @@
 
 **Inline CSS** applies the CSS directly to the line of code in the HTML document. This is helpful for altering a specific piece of a broader file.
 
-### (3.) In order to make all <p> a red color, you would use 
+### (3.) In order to make all p a red color, you would use 
 
 p {
   color: red;
