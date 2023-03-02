@@ -35,3 +35,9 @@ My best contact information is by email at bkhalliwell@outlook.com.
 | [Class11](301-notes/class11.md) | [Class12](301-notes/class12.md) | [Class13](301-notes/class13.md) | [Class14](301-notes/class14.md) | [Class15](301-notes/class15.md) |
 
 ## Links to my Code-401 reading notes:
+
+| [Class1](401-notes/class1.md) | [Class2](401-notes/class2.md) | [Class3](401-notes/class3.md) | [Class4](401-notes/class4.md) | [Class5](401-notes/class5.md) | 
+
+| [Class6](401-notes/class6.md) | [Class7](401-notes/class7.md) | [Class8](401-notes/class8.md) | [Class9](401-notes/class9.md) | [Class10](401-notes/class10.md) | 
+
+| [Class11](401-notes/class11.md) | [Class12](401-notes/class12.md) | [Class13](401-notes/class13.md) | [Class14](401-notes/class14.md) | [Class15](401-notes/class15.md) |
