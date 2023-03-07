@@ -48,6 +48,24 @@
 
 ### (5.) Metadata in SEO
 
-#### 
+#### The <Meta> element is used to tell the web browser various pieces of information about the site which can enrich the experience for users.
+
+## Designing a website
+
+### (1.) The first step to designing a website is to define your goals and vision for the site. What do you want to accomplish? 
+
+### (2.) According to [Mozilla](https://developer.mozilla.org/en-US/docs/Learn/Common_questions/Design_and_accessibility/Thinking_before_coding), three questions are very important when designing a website. They are, "What exactly do I want to accomplish?", "How will a website help me reach my goals?", "What needs to be done, and in what order, to reach my goals?"
+
+## Semantics
+
+### (1.) Using an h1 tag gives the text importance as the top of your page. Using a span tag makes the section look like an h1 heading, but it will not have any semantic value, so the next coder reading it may be confused and left wondering why it wasn't an h1 to begin with.
+
+### (2.) Semantics help communicate the purpose of code in an HTML document and leave the code cleaner. They provide clarity to others and ourselves when we come back to a block of code after a period of time.
+
+## JavaScript
+
+### (1.) Two things that *require* JavaScript on a webpage would be the use of variables to store information, and the ability to run code in response to events occuring on the webpage [Mozilla](https://developer.mozilla.org/en-US/docs/Learn/JavaScript/First_steps/What_is_JavaScript).
+
+### (2.) You can add JavaScript to a webpage either internally or externally. Internally you would use the script tags with your JavaScript enclosed, and externally you would use the script tags with the src= function enclosed.
 
 [Homepage](https://halliwellb.github.io/reading-notes/)
