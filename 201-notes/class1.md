@@ -42,7 +42,7 @@
 
 #### According to [Mozilla](https://developer.mozilla.org/en-US/docs/Learn/HTML/Introduction_to_HTML/Document_and_website_structure), **article element tags** represent a block of content that can stand on its own meaning, without the context of the rest of the page. **Section tags** on the other hand are a piece of a whole page and would make less sense on their own.
 
-### (4.) Elements in a webisite
+### (4.) Elements in a website
 
 #### A typical website will include the following **elements**: Body tags, Main tags, Article tags, Section tags, may include *Aside* tags and/or Nav tags, Header tags, and Footer tags.
 
@@ -64,7 +64,7 @@
 
 ## JavaScript
 
-### (1.) Two things that *require* JavaScript on a webpage would be the use of variables to store information, and the ability to run code in response to events occuring on the webpage [Mozilla](https://developer.mozilla.org/en-US/docs/Learn/JavaScript/First_steps/What_is_JavaScript).
+### (1.) Two things that *require* JavaScript on a webpage would be the use of variables to store information, and the ability to run code in response to events occurring on the webpage [Mozilla](https://developer.mozilla.org/en-US/docs/Learn/JavaScript/First_steps/What_is_JavaScript).
 
 ### (2.) You can add JavaScript to a webpage either internally or externally. Internally you would use the script tags with your JavaScript enclosed, and externally you would use the script tags with the src= function enclosed.
 
