@@ -22,7 +22,7 @@
 
 ### (4.) Strings and Numbers
 
-#### To create a string in JavaScript, we can write the text in single quotes (''), double quotes (""), or backquotes (``). To create a number in JavaScript, you can declare a variable such as myNumber and equate it to a number, then call the variable. 
+#### To create a string in JavaScript, we can write the text in single quotes (''), double quotes (""), or backquotes (``). To create a number in JavaScript, you can declare a variable such as myNumber and equate it to a number, then call the variable.
 
 ### (5.) Variables
 
@@ -48,7 +48,7 @@
 
 ### (5.) Metadata in SEO
 
-#### The <Meta> element is used to tell the web browser various pieces of information about the site which can enrich the experience for users.
+#### The >Meta< element is used to tell the web browser various pieces of information about the site which can enrich the experience for users.
 
 ## Designing a website
 
