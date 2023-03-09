@@ -29,6 +29,6 @@
 
 ## Misc.
 
-1. Pair programming can help us uncover bugs more quickly and learn from our peers in a hands-on way that is conducive to many of us. This strategy can offer different perspective in real time, and stop us from going down an unneccessary rabbit hole that we later have to carefully dig out of. Finally, it can help us become more comfortable with coding in conjuction with another person, which could be very beneficial for job interviews or collaboration at work in this new field.
+1. Pair programming can help us uncover bugs more quickly and learn from our peers in a hands-on way that is conducive to many of us. This strategy can offer different perspective in real time, and stop us from going down an unnecessary rabbit hole that we later have to carefully dig out of. Finally, it can help us become more comfortable with coding in conjunction with another person, which could be very beneficial for job interviews or collaboration at work in this new field.
 
 [Homepage](https://halliwellb.github.io/reading-notes/)
