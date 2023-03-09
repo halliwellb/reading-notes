@@ -1,4 +1,4 @@
-# Class 3 Notes
+# Class Three Notes
 
 ## HTML
 
