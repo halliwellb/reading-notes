@@ -2,7 +2,7 @@
 
 ## HTML Media
 
-1. A realworld use case for the `alt` attribute on a webpage would be for visually impaired users who are viewing the website through screen readers. The `alt` attribute could give those users a much clearer view of the site and images. Alternatively, if the site is taking a long time to load the images, the `alt` attribute can sub in for the image and not completely ruin the experience.
+1. A real-world use case for the `alt` attribute on a webpage would be for visually impaired users who are viewing the website through screen readers. The `alt` attribute could give those users a much clearer view of the site and images. Alternatively, if the site is taking a long time to load the images, the `alt` attribute can sub in for the image and not completely ruin the experience.
 
 2. You can improve the accessibility of your webpage by including an `alt` attribute for your image and including captions for your image. They will serve different purposes, but if the image does not load they will both be visible. Captions can benefit those who are able to see the image also.
 
@@ -20,7 +20,7 @@
 
 3. One of the most important considerations when thinking about font styles is *readability*. If the style makes the text even slightly more difficult to read, it should be changed. The font should be clean and appear clear and inviting. There are a lot of *cool* fonts out there, but fewer that are appropriate for an HTML that will be shown to anyone but yourself.
 
-According to [Mozilla](https://developer.mozilla.org/en-US/docs/Learn/CSS/Styling_text/Fundamentals) it is also beneficial to add a **font stack** which means giving browsers multiple options to choose from when presenting your site. The browser will default to the first font *if available* and if necessary, continue until it findas an available font to use.
+According to [Mozilla](https://developer.mozilla.org/en-US/docs/Learn/CSS/Styling_text/Fundamentals) it is also beneficial to add a **font stack** which means giving browsers multiple options to choose from when presenting your site. The browser will default to the first font *if available* and if necessary, continue until it finds an available font to use.
 
 4. `Font-size` will change the size of specific sections in your HTML file. `Font-weight` will set how bold the text is in the section, similar to the bold function in a word processor. `Font-style` is used to turn italic text on or off, similar to the italics function in a word processor. [Mozilla](https://developer.mozilla.org/en-US/docs/Learn/CSS/Styling_text/Fundamentals)
 
