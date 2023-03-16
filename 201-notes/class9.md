@@ -23,6 +23,8 @@
 
 ## Learn JS
 
-1. Events are the systems way of reacting to an initiating action. "You did this, therefore I need to do *this*"
+1. Events are the systems way of reacting to an initiating action. "You did this, therefore I need to do *this*".
+
+2. When using `addEventListener()` we need to pass two arguments in. They are, `click`, which alerts the program that we can to listen to the `click` event, (or another if specified) and a function to call when the `click` (or other) event happens.
 
 [Homepage](https://halliwellb.github.io/reading-notes/)
