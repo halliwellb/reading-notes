@@ -25,6 +25,11 @@
 
 1. Events are the systems way of reacting to an initiating action. "You did this, therefore I need to do *this*".
 
-2. When using `addEventListener()` we need to pass two arguments in. They are, `click`, which alerts the program that we can to listen to the `click` event, (or another if specified) and a function to call when the `click` (or other) event happens.
+2. When using `addEventListener()` we need to pass two arguments in. They are, `click`, which alerts the program that we can to listen to the `click` event, (or another if specified) and **a function to call** when the `click` (or other) event happens.
+
+3. The `event object` is a parameter that's passed to event handlers to provide extra features and information when the event handler is called on. Depending on where the `event object` is placed, it will change the functionality of the event. This can be useful if that is the intention, or cause issues if not.
+
+4. `Event bubbling` fires the inner-most element first and moves outwards, while `Event capture` fires the outer-most element first and moves inwards.
+    + According to [Mozilla](https://developer.mozilla.org/en-US/docs/Learn/JavaScript/Building_blocks/Events#:~:text=By%20default%20almost%20all%20event%20handlers%20are%20registered%20in%20the%20bubbling%20phase%2C%20and%20this%20makes%20more%20sense%20most%20of%20the%20time.), almost all event handlers are registered in the bubbling phase at this time.
 
 [Homepage](https://halliwellb.github.io/reading-notes/)
