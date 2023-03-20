@@ -16,7 +16,7 @@ Today, many sites use the HTML solutions paired with JavaScript APIs to control 
 
 1. `Grid` layout is two-dimensional, while `Flex` layout is one-directional. `Grid` and `Flex` work well together though.
 
-2. `Grid container` is the direct parent of all the grid items. In other words, it holds the `grid items` which are direct descendents of the `grid container`. The `grid line` makes up the sections of the grid and can be either vertical or horizontal.
+2. `Grid container` is the direct parent of all the grid items. In other words, it holds the `grid items` which are direct descendants of the `grid container`. The `grid line` makes up the sections of the grid and can be either vertical or horizontal.
 
 ## Responsive Images
 
@@ -24,6 +24,6 @@ Today, many sites use the HTML solutions paired with JavaScript APIs to control 
 
 2. `Srcset` offers the browser multiple image sources and in combination with `sizes` lets the browser choose the right image based on the width of the page the user is viewing on. An example of using these would be a picture of a garden that is sized for a desktop user. We can offer the browser differently sized images to use with a smaller screen size, like a smartphone.
 
-3. `Srcset` loads with the page's HTML and images, while JavaScript and CSS links will load after the images have started loading to save load time. This can cause the image to load twice, which essentially breaks the site.
+3. `Srcset` loads with the page's HTML and images, while JavaScript and CSS links will load after the images have started loading to save load time. Because of this, using JavaScript or CSS can cause the image to load twice, which essentially breaks the site.
 
 [Homepage](https://halliwellb.github.io/reading-notes/)
