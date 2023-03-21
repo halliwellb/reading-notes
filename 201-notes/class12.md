@@ -2,7 +2,7 @@
 
 ## JavaScript Canvas
 
-1. Cavas allows you to draw 2D graphics and animations using JavaScript.
+1. Canvas allows you to draw 2D graphics and animations using JavaScript.
 
 2. The closing `</canvas>` tag tells the browser to show the content as a fallback if the browser doesn't support the `<canvas>` element.
 
@@ -10,7 +10,7 @@
 
 ## Chart.js Documentation
 
-1. `Chart.js` allows you to incorporate charts in your HTML page. You can utilize it with in-line `script` tag, and then telling it what type of chart you want (`scatter`, `line`, `bar`, etc), with the coresponding data inputs.
+1. `Chart.js` allows you to incorporate charts in your HTML page. You can utilize it with in-line `script` tag, and then telling it what type of chart you want (`scatter`, `line`, `bar`, etc), with the corresponding data inputs.
 
 2. `scatter`, `line`, `bar`, `pie`, `doughnut`
 
