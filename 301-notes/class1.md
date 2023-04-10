@@ -2,10 +2,10 @@
 
 ## Component-based architecture
 
-1. What is a component?
+1. What is a `component`?
     - A `component` is a small section of code that fills a certain part of the user interface that we're building
 
-2. What are the characteristics of a component?
+2. What are the characteristics of a `component`?
     - The characteristics of a `component` are:
         - Reusability
         - Replaceability
