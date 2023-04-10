@@ -3,10 +3,10 @@
 ## Component-based architecture
 
 1. What is a component?
-    - A component is a small section of code that fills a certain part of the user interface that we're building
+    - A `component` is a small section of code that fills a certain part of the user interface that we're building
 
 2. What are the characteristics of a component?
-    - The characteristics of a component are:
+    - The characteristics of a `component` are:
         - Reusability
         - Replaceability
         - Multi-functionality
@@ -15,7 +15,7 @@
         - Independent
 
 3. What are the advantages of using component-based architecture?
-    - The advantage of using component-based architecture are:
+    - The advantage of using `component-based architecture` are:
         - Ease of deployment
         - Reduced cost
         - Ease of development
