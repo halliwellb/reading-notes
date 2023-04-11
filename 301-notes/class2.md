@@ -4,7 +4,7 @@
 
 1. Based off the diagram, what happens first, the ‘render’ or the ‘componentDidMount’?
 
-    - Based off the diagram, the `render` happends first, followed by the `componentDidMount`.
+    - Based off the diagram, the `render` happens first, followed by the `componentDidMount`.
 
 2. What is the very first thing to happen in the lifecycle of React?
 
